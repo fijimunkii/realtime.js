@@ -4,8 +4,8 @@
 // functions for the timers
 
 function onTime(t){
-if (t==="a1200"){
-  	function();
+	if (t==="a1200"){
+	  	function();
 	}
 	else if (t==="a1205"){
 		function();
