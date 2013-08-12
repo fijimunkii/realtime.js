@@ -6,7 +6,7 @@ Schedule events to run at specific times of the day.
 
 Enjoy working with JavaScript? Me too.
 
-I thought it was about time for a framework for calling functions at specific times.
+I thought it was about time for a framework to call functions at specific times of the day.
 
 One could always simply run:
 ```
