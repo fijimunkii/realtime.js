@@ -2318,8 +2318,7 @@ function timers(){
 	setTimeout(function(){onTime("p1150");}, millisTill2350);
 	setTimeout(function(){onTime("p1155");}, millisTill2355);
 }
-
-taffyTimers(); // run the timers on page load
+timers(); // run the timers on page load
 setInterval(function () {
-    taffyTimers();
+    timers();
 }, 24 * 60 * 60 * 1000); // re-run the timers every 24 hours
